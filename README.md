@@ -1,2 +1,2 @@
 # Lunix
-An Internal Minecraft Hack Client by CXCubeHD
+An Internal Minecraft Hack by CXCubeHD
